@@ -2,6 +2,11 @@
 
 Each new application opens in a new worskspace in gnome.
 
+## Note: Still in Build Phase
+### To Add Next
+- Cases where you wouldn't want your window to open in new workspace, like browser extension windows.
+- A settings menu
+
 ## Intended Use Case
 
 ### Wayland 
