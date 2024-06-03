@@ -1,0 +1,10 @@
+{
+    "name" : "New Window New Workspace",
+    "description" : "Open New instances in a new Worspaces",
+    "shell-version" : [
+        "46.2"
+    ],
+    "url" : "localhost lol",
+    "uuid" : "new-window@localhost.com",
+    "version" : 1.0
+}
